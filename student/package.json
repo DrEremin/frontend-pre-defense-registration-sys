@@ -1,0 +1,15 @@
+{
+  "name": "student",
+  "version": "1.0.0",
+  "description": "Work with student registration for the pre-defense of the thesis",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "Ivan Eremin (ivaneremin1979@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "administrator",
+  "version": "1.0.0",
+  "description": "Module for managing the registration system for pre-defense of theses",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "Ivan Eremin (ivaneremin1979@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
